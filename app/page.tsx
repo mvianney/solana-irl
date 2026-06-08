@@ -533,9 +533,6 @@ export default function Home() {
               Images credits to Gemini AI (Nano Banana)
             </p>
 
-            <p className="text-center text-sm text-muted-foreground dark:text-gray-400">
-              Written for the Superteam Poland — Solana IRL Bounty 🇵🇱
-            </p>
           </section>
 
           {/* Author Section */}
